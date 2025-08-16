@@ -45,3 +45,13 @@ Your subagent's system prompt goes here.
 - input
 - output
 - restrictions
+
+🤔6.about web_workflow
+> i defined 6 characters:
+> - PM
+> - Designer
+> - FE
+> - Architect
+> - BE
+> - Coordinator ---he is the CLAUDE.md, the owner
+> - the above characters does not macth claude's standard format, if you wanna use it, make sure you sligtly modify it to fit the format.
