@@ -35,7 +35,10 @@ Your subagent's system prompt goes here.
 ```
 
 👏5.tips about how to define a agent
-- accurate profile description
+- accurate profile description（character） 
+- task that you need to finish
+- skills that you own
+- overall principals/rules
 - goals
 - list todo
 - tools it can use
