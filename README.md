@@ -5,8 +5,8 @@
 --------------
 your_project/
 |---.claude
-|---|---your_agent1.md
-|---|---your_agent2.md
+|---|---｜agents｜---your_agent1.md
+|---|---｜agents｜---your_agent2.md
 |---CLAUDE.md
 ```
 
