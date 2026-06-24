@@ -103,6 +103,10 @@ celerybeat.pid
 
 # Environments
 .env
+.env.*
+!.env.example
+!.env.*.example
+.envrc
 .venv
 env/
 venv/
@@ -176,3 +180,11 @@ config.ini
 secrets.json
 .env.local
 .env.production
+CLAUDE.local.md
+.claude/settings.local.json
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
